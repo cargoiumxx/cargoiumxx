@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randomtechrate&label=Profile%20views&color=0e75b6&style=flat" alt="randomtechrate" /> </p>
 
-- 🔭 I’m currently working on [Project Astra](https://discord.gg/astramp)
-
 - 🌱 I’m currently learning **C++ ,JS , Python, Typescript, HTML , CSS**
 
 - 💬 Ask me about **JS , Python**
